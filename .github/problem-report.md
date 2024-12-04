@@ -5,11 +5,12 @@
     <th style="text-align: center">Resolução</th>
   </tr>
   <tr>
-    <td>nenhum</td>
-    <td>nenhum</td>
-    <td>nenhum</td>
+    <td>jupyter</td>
+    <td>jupyter</td>
+    <td>nenhuma</td>
   </tr>
 </table>
 
 <br>
-nenhum problema aparente na construção do projeto
+tive alguns problemas no jupyter então preferi fazer no pycharm,
+porem me comprometo a utilizar o jupyter em outras fases
